@@ -19,4 +19,4 @@
 <li>new Date(): (https://www.w3schools.com/js/js_dates.asp)</li>
 </ul>
 <h2>Project Preview</h2>
-(https://ali-tahir4024.github.io/Analog-Clock-JS/).
+(https://hamzaashfaq01.github.io/Analogue-Clock/).
